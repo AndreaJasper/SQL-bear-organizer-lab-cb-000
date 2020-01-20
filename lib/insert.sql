@@ -1,8 +1,8 @@
-INSERT INTO bears VALUES (1, "Mr. Chocolate", 3, "female", "brown", "nasty", );
-INSERT INTO bears VALUES (2);
-INSERT INTO bears VALUES (3);
-INSERT INTO bears VALUES (4);
-INSERT INTO bears VALUES (5);
-INSERT INTO bears VALUES (6);
-INSERT INTO bears VALUES (7);
-INSERT INTO bears VALUES (8);
+INSERT INTO bears VALUES (1, "Mr. Chocolate", 3, "male", "brown", "nasty", 1);
+INSERT INTO bears VALUES (1, "Mr. Chocolate", 10, "male", "brown", "nasty", 1);
+INSERT INTO bears VALUES (1, "Mr. Chocolate", 1, "female", "brown", "nasty", 1);
+INSERT INTO bears VALUES (1, "Mr. Chocolate", 8, "female", "brown", "nasty", 1);
+INSERT INTO bears VALUES (1, "Mr. Chocolate", 15, "female", "brown", "nasty", 1);
+INSERT INTO bears VALUES (1, "Mr. Chocolate", 7, "female", "brown", "nasty", 1);
+INSERT INTO bears VALUES (1, "Mr. Chocolate", 3, "female", "brown", "nasty", 1);
+INSERT INTO bears VALUES (1, "Mr. Chocolate", 3, "female", "brown", "nasty", 1);
