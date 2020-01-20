@@ -4,6 +4,5 @@ INSERT INTO bears VALUES (3, "Tabitha", 1, "female", "white", "sweet", 1);
 INSERT INTO bears VALUES (4, "Sergeant Brown", 8, "female", "brown", "serious", 1);
 INSERT INTO bears VALUES (5, "Melissa", 15, "female", "tan", "friendly", 1);
 INSERT INTO bears VALUES (6, "Grinch", 7, "female", "tan", "cranky", 1);
-INSERT INTO bears VALUES (7, "Mr. Chocolate", 3, "male", "golden", "nasty", 1);
-INSERT INTO bears VALUES (8, "Wendy", 3, "female", "red", "sleepy", 1);
-INSERT INTO bears VALUES (1, NULL, 3, "male", "brown", "nasty", 1);
+INSERT INTO bears VALUES (7, "Wendy", 3, "female", "red", "sleepy", 1);
+INSERT INTO bears VALUES (8, NULL, 3, "male", "brown", "nasty", 1);
